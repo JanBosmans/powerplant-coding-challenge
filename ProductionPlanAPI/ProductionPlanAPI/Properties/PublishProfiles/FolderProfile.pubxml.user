@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <_PublishTargetUrl>C:\Users\bosmansj\Documents\GitHub\powerplant-coding-challenge\Publish</_PublishTargetUrl>
+    <History>True|2021-06-29T12:32:40.9975935Z;True|2021-06-29T14:29:17.8325253+02:00;False|2021-06-29T14:28:40.3226687+02:00;True|2021-06-29T14:20:03.7021370+02:00;True|2021-06-29T14:11:09.4796559+02:00;True|2021-06-29T13:57:03.0488124+02:00;</History>
+  </PropertyGroup>
+</Project>

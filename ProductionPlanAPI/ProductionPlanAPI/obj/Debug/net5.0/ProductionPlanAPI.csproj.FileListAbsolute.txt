@@ -72,3 +72,4 @@ C:\Users\bosmansj\Documents\GitHub\powerplant-coding-challenge\ProductionPlanAPI
 C:\Users\bosmansj\Documents\GitHub\powerplant-coding-challenge\ProductionPlanAPI\ProductionPlanAPI\obj\Debug\net5.0\ref\ProductionPlanAPI.dll
 C:\Users\bosmansj\Documents\GitHub\powerplant-coding-challenge\ProductionPlanAPI\ProductionPlanAPI\obj\Debug\net5.0\ProductionPlanAPI.pdb
 C:\Users\bosmansj\Documents\GitHub\powerplant-coding-challenge\ProductionPlanAPI\ProductionPlanAPI\obj\Debug\net5.0\ProductionPlanAPI.genruntimeconfig.cache
+C:\Users\bosmansj\Documents\GitHub\powerplant-coding-challenge\ProductionPlanAPI\ProductionPlanAPI\bin\Debug\net5.0\appsettings.Production.json
