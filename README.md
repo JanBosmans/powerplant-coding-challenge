@@ -23,21 +23,29 @@ The Postman folder contains an export of HTTP POST commands to process the examp
 
 ### API Responses
 
-<li>200 ok:<br/> 
+<li><b><i>200 ok:</i></b><br/> 
   &nbsp;&nbsp;&nbsp;&nbsp;
-  The payload was processed succesfully and the production plan is provided in the response body<br/>
+  The payload was processed succesfully<br/> 
+   &nbsp;&nbsp;&nbsp;&nbsp;
+  The production plan is provided in the response body<br/>
 
-<li>400 Bad request:<br/> 
+<li><b><i>400 Bad request:</i></b><br/> 
   &nbsp;&nbsp;&nbsp;&nbsp;
-  The payload was invalid; the response body contains the validation error message<br/>
+  The payload was invalid<br/> 
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  The response body contains the validation error message<br/>
 
-<li>404 Not Found:<br/> 
+<li><b><i>404 Not Found:</i></b><br/> 
   &nbsp;&nbsp;&nbsp;&nbsp;
-  The production plan total power does not equal the requested load; the response body contains the production plan.<br/>
+  The production plan total power does not equal the requested load<br/> 
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  The response body contains the production plan.<br/>
 
-<li>500 Internal server Error:<br/> 
+<li><b><i>500 Internal server Error:</i></b><br/> 
   &nbsp;&nbsp;&nbsp;&nbsp;
-  An error occured; the response body contains the error type; the error is logged in the logs folder<br/>
+  An error occured; the response body contains the error type<br/>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  The error is logged in the logs folder<br/>
 
 ## C# solutions file
 The solutions file ProductionPlanAPI.sln is provided in folder /ProductionPlanAPI
