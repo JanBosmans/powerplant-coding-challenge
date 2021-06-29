@@ -23,9 +23,11 @@ The Postman folder contains an export of HTTP POST commands to process the examp
 
 ### API Responses
 
-200 ok: The payload was processed succesfully and the productionplan is provided in the response body
+200 ok: The payload was processed succesfully and the production plan is provided in the response body
 
 400 Bad request: The payload was invalid; the response body contains the validation error message
+
+404 Not Found: The production plan total power does not equal the requested load; the response body contains the production plan.
 
 500 Internal server Error: An error occured; the response body contains the error type; the error is logged in the logs folder
 
