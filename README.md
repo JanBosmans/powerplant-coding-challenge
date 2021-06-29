@@ -3,7 +3,7 @@
 
 ## Start the API
 
-Execute Publish\ProductionPlanAPI
+Execute Publish\ProductionPlanAPI.exe
 
 ## Logging
 
