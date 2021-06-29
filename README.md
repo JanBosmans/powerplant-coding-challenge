@@ -21,3 +21,11 @@ https://localhost:8888/swagger/index.html
 
 The Postman folder contains an export of HTTP POST commands to process the example payload files.
 
+### API Responses
+
+200 ok: The payload was processed succesfully and the productionplan is provided in the response body
+
+400 Bad request: The payload was invalid; the response body contains the validation error message
+
+500 Internal server Error: An error occured; the response body contains the error type; the error is logged in the logs folder
+
