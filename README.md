@@ -31,3 +31,5 @@ The Postman folder contains an export of HTTP POST commands to process the examp
 
 500 Internal server Error: An error occured; the response body contains the error type; the error is logged in the logs folder
 
+## C# solutions file
+The solutions file ProductionPlanAPI.sln is provided in folder /ProductionPlanAPI
